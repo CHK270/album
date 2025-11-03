@@ -19,3 +19,10 @@ p{
 img:hover{
  border: 10px solid red
 }
+body {
+  background-image: url("https://images.unsplash.com/photo-1491466424936-e304919aada7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9uZCUyMGQnJUMzJUE5Y3JhbiUyMG9yZGluYXRldXJ8ZW58MHx8MHx8fDA%3D&fm=jpg&q=60&w=3000"); /* ton image */
+  background-repeat: no-repeat;       /* ne pas répéter */
+  background-size: cover;             /* couvre tout l’écran */
+  background-position: center;        /* centrée */
+}
+
